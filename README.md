@@ -2,9 +2,8 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-
-## Notas
-Pueden hacer lo que quieran...
-
 # Actualizado desde GitHub, este mensaje
 Este articulo, fue actualizado desde github... gracias por leer :).
+
+## Cambios nuevos desde VSC
+Yei
